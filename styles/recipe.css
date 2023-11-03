@@ -1,0 +1,12 @@
+figure {
+    display: flex;
+    flex-direction: column;
+    align-items: center ;    
+}
+figcaption {
+    padding-top:10px;
+}
+p, ul,ol {
+    width: 60%;
+    
+}
